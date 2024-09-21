@@ -1,3 +1,7 @@
+/*
+  In JavaScript, an object is a collection of key-value pairs. 
+  This data structure is also called map, dictionary or hash-table in other programming languages.
+*/
 const person = {
   name: 'Hank',
   location: 'Texas',
