@@ -1,5 +1,6 @@
 /*
   Binary Search Tree (BST)
+  Binary trees are a type of tree in which each node has a maximum of two children.
 */
 // We create a class for each node within the tree
 class Node{
